@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenas/lavel1.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mario
+  - TortugaRoja
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Suelo
+  - Plataforma
+  - Fondo
+  - Personajes
+  - Concha
+  - Items
+  - Enemigos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 2466213937
+    locked: 0
+  - name: Suelo
+    uniqueID: 522834973
+    locked: 0
+  - name: Plataforma
+    uniqueID: 1789728017
+    locked: 0
+  - name: Personajes
+    uniqueID: 724373245
+    locked: 0
